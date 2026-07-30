@@ -133,10 +133,12 @@ server_socket.close()
 ```
 ## Output:
 client.py
+
 <img width="565" height="177" alt="Screenshot 2026-07-30 080209" src="https://github.com/user-attachments/assets/49a35f9a-7cd9-4b24-8e20-cd5bb4da1f8b" />
 
 
 server.py
+
 <img width="665" height="191" alt="Screenshot 2026-07-30 080220" src="https://github.com/user-attachments/assets/2a1c1724-5dcc-4bc6-b3c1-40acd77cda52" />
 
 ## Result:
